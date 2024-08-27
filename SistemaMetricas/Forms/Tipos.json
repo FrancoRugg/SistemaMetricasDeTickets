@@ -1,0 +1,18 @@
+﻿[
+  {
+    "Type": "TextBox",
+    "Control": "txtTipo",
+    "Label": "Tipo",
+    "Obligatorio": "S",
+    "Coleccion": "",
+    "Columna": "Tipo"
+  },
+  {
+    "Type": "ComboBox",
+    "Control": "txtEstado",
+    "Label": "Estado",
+    "Obligatorio": "S",
+    "Coleccion": "V;C",
+    "Columna": "Estado"
+  }
+]
